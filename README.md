@@ -12,7 +12,6 @@ This project demonstrates secure deployment of an AWS RDS (MySQL) database with:
 📄 Includes:  
 - Word documentation  
 - Screenshots  
-- JSON template (if any)
 
 🛡️ Focus: Cloud security, AWS networking, and access control.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f777ff17-87c2-493a-8621-33dde4996667" />
